@@ -13,6 +13,11 @@
 .back-blur {
   backdrop-filter: blur(3px) grayscale(1);
   height: inherit;
+  border-radius: 2%;
+}
+
+.round-it-off {
+  border-radius: 4%;
 }
 
 .back-blur-hard {
